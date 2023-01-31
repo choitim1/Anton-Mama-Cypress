@@ -1,0 +1,25 @@
+
+{
+    "name": "Tim491",
+    "email": "tim491@mail.ru",
+    "password": "tim491",
+    "addInfo":{
+        "location":{
+          "country": "usa",
+            "state": "ok",
+            "city": "tulsa",
+            "street": "Kok",
+            "#house": "301"
+          
+
+        },
+    "personal":{
+      "name": "ivan",
+      "num":{
+        "qwe": [1, 2, 3]
+            }
+    }
+
+    }
+}
+
